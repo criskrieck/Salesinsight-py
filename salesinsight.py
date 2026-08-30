@@ -395,3 +395,5 @@ def plot_matriz_correlacao(df):
 
         plot_tendencia_temporal(df_trans)
         plot_comparacao_categoria_regiao(df_trans)
+
+       
